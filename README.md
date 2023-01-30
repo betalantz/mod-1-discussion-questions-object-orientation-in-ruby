@@ -1,4 +1,4 @@
-# Week 1, Day 2 Morning Discussion Questions
+# Ruby Week 1, Discussion Questions
 
 ## Instructions
 
